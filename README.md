@@ -10,10 +10,12 @@
 | 19/190019158  |  Rafael Leão |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O FindShortestPath é uma aplicação feita em ReactJS que utiliza do algoritmo dijkstra para encotrar o menor caminho entre dois pontos, com a possibilidade de o usuario colocar uma parede entre eles.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+- [1] ![image](https://user-images.githubusercontent.com/54643266/130539968-53724632-299f-4006-9fdc-c770fb0f424c.png)
+- [2] ![image](https://user-images.githubusercontent.com/54643266/130540010-d44bd5dc-280e-419a-be9a-ae07a69e3d9b.png)
+- [3] ![image](https://user-images.githubusercontent.com/54643266/130540050-ca12f586-76b1-4856-959d-56a5b23a9764.png)
 
 ## Instalação 
 **Linguagem**: Javascript<br>
@@ -22,10 +24,12 @@ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 - Ter o npm instalado
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Para rodar a aplicação basta:
+  - clonar o repositorio
+  - abrir a pasta no terminal
+  - rodar o comando "npm install"
+  - rodar o comando "npm start"
+  - após isso a aplicação estará disponível na porta 3000 se não houver mais nada em sua máquina rodando nesta porta
 
 
 
