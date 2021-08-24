@@ -7,10 +7,12 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 19/0041871  |  Abner Filipe |
-| 19/190019158  |  Rafael Leão |
+| 19/0019158  |  Rafael Leão |
 
 ## Sobre 
 O FindShortestPath é uma aplicação feita em ReactJS que utiliza do algoritmo dijkstra para encotrar o menor caminho entre dois pontos, com a possibilidade de o usuario colocar uma parede entre eles.
+
+Link da apresentação: https://youtu.be/7RZiOG4u_Zk
 
 ## Screenshots
 - [1] ![image](https://user-images.githubusercontent.com/54643266/130539968-53724632-299f-4006-9fdc-c770fb0f424c.png)
